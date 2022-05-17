@@ -1,7 +1,7 @@
 # Products
 
 | name | category | price | volume | description |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Vino Bianco | Beverages | 7,40 | 0,75 L | A sweet wine that goes well with salads |
 | Vino Rosato | Beverages | 5,60 | 0,75 L | Fruity and aromatic for sunny afternoons |
 | Vino Rosso | Beverages | 8,50 | 1 L | A round taste of sun and sea for savory dishes |

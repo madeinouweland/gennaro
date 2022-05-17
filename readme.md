@@ -15,5 +15,5 @@
 | Chopping Knife | Utensil | 15,00 | 1pc | Cut aromatic herbs, do not crush | u-chopping-knife.png |
 | Cleaver | Utensil | 45,00 | 1pc | This cleaver ensures clean meat work | u-cleaver.png |
 | Garlic Press | Utensil | 8,95 | 1pc | Squeeze and use the garlic completely | u-garlic-press.png |
-| Kitchen Knifee | Utensil | 19,95 | 1pc |An all-round tool that cuts everything | u-kitchen-knife.png |
+| Kitchen Knife | Utensil | 19,95 | 1pc |An all-round tool that cuts everything | u-kitchen-knife.png |
 | Rolling Pin | Utensil | 10,00 | 1pc | The must-have for Italian cuisine | u-rolling-pin.png |

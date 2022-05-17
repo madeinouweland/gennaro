@@ -1,7 +1,7 @@
 # Products
 
 | name | category | price | volume | description | image |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- |
 | Vino Bianco | Beverages | 7,40 | 0,75 L | A sweet wine that goes well with salads | https://github.com/madeinouweland/gennaroshop/blob/main/products/B%20-%20Vino%20Bianco.png |
 | Vino Rosato | Beverages | 5,60 | 0,75 L | Fruity and aromatic for sunny afternoons | https://github.com/madeinouweland/gennaroshop/blob/main/products/B%20-%20Vino%20Rosato.png |
 | Vino Rosso | Beverages | 8,50 | 1 L | A round taste of sun and sea for savory dishes | https://github.com/madeinouweland/gennaroshop/blob/main/products/B%20-%20Vino%20Rosso.png |

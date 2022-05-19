@@ -20,3 +20,7 @@
 | ![Garlic Press](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-garlic-press.png) | Garlic Press | Utensil | 8,95 | 1pc | Squeeze and use the garlic completely | u-garlic-press.png |
 | ![Kitchen Knife](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-kitchen-knife.png) | Kitchen Knife | Utensil | 19,95 | 1pc |An all-round tool that cuts everything | u-kitchen-knife.png |
 | ![Rolling Pin](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-rolling-pin.png) | Rolling Pin | Utensil | 10,00 | 1pc | The must-have for Italian cuisine | u-rolling-pin.png |
+
+The images on this page are used in the course "Django Gennaro Shop". 
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

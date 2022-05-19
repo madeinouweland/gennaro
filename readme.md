@@ -4,9 +4,12 @@
 
 | name | category | price | volume | description | image |
 | --- | --- | --- | --- | --- | --- |
-| Vino Bianco | Beverages | 7,40 | 0,75 L | A sweet wine that goes well with salads | b-vino-bianco.png |
+| Grappa | Beverages | 12,50 | 0,5 L | Supplemented by a light aroma of laurel, typical of the country | b-grappa.png |
+| Vino Bianco | Beverages | 7,40 | 0,75 L | A sweet wine that goes well with salads | b-vino-bianco.png | b-water.png |
 | Vino Rosato | Beverages | 5,60 | 0,75 L | Fruity and aromatic for sunny afternoons | b-vino-rosato.png |
 | Vino Rosso | Beverages | 8,50 | 1 L | A round taste of sun and sea for savory dishes | b-vino-rosso.png |
+| Water | Beverages | 1,90 | 0,5 L | Fresh and sparkling, always a good addition |
+| Cookies | Food | 2,25 | 350 g | Fruity jam in delicate biscuit | f-cookies.png |
 | Olives | Food | 3,95 | 400 g | Olives with a lot of pulp and mild acidity | f-olives.png |
 | Parmesan | Food | 5,80 | 250 g | Fine grated cheese from the hills of Avalino | f-parmesan.png |
 | Passata Pomodoro | Food | 3,70 | 500 mL | Sun-ripened and full of flavor | f-passata-di-pomodoro.png |

@@ -4,7 +4,7 @@
 
 | | name | category | price | volume | description | image |
 | --- | --- | --- | --- | --- | --- | --- |
-| !![Grappa](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-grappa.png) | Grappa | Beverages | 12,50 | 0,5 L | Supplemented by a light aroma of laurel, typical of the country | b-grappa.png |
+| ![Grappa](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-grappa.png) | Grappa | Beverages | 12,50 | 0,5 L | Supplemented by a light aroma of laurel, typical of the country | b-grappa.png |
 | ![Vino Bianco](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-vino-bianco.png) | Vino Bianco | Beverages | 7,40 | 0,75 L | A sweet wine that goes well with salads | b-vino-bianco.png |
 | ![Vino Rosato](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-vino-rosato.png) | Vino Rosato | Beverages | 5,60 | 0,75 L | Fruity and aromatic for sunny afternoons | b-vino-rosato.png |
 | ![Vino Rosso](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-vino-rosso.png) | Vino Rosso | Beverages | 8,50 | 1 L | A round taste of sun and sea for savory dishes | b-vino-rosso.png |

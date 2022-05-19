@@ -2,6 +2,12 @@
 
 # Products
 
+In the Django Gennaro Webshop course, you need product images. To prevent setting up an image service, the images are offered in this github repository. Here is an example url to get the first product image:
+
+```
+https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-grappa.png
+```
+
 | | name | category | price | volume | description | image |
 | --- | --- | --- | --- | --- | --- | --- |
 | ![Grappa](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-grappa.png) | Grappa | Beverages | 12,50 | 0,5 L | Supplemented by a light aroma of laurel, typical of the country | b-grappa.png |
@@ -21,6 +27,6 @@
 | ![Kitchen Knife](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-kitchen-knife.png) | Kitchen Knife | Utensil | 19,95 | 1pc |An all-round tool that cuts everything | u-kitchen-knife.png |
 | ![Rolling Pin](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-rolling-pin.png) | Rolling Pin | Utensil | 10,00 | 1pc | The must-have for Italian cuisine | u-rolling-pin.png |
 
-The images on this page are used in the course "Django Gennaro Shop". 
+The images on this page may be used by you during the course "Django Gennaro Shop". The are for personal use only.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

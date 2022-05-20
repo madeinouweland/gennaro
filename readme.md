@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-gra
 | ![Vino Rosso](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-vino-rosso.png) | Vino Rosso | Beverages | 8,50 | 1 L | A round taste of sun and sea for savory dishes | b-vino-rosso.png |
 | ![Water](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-water.png) | Water | Beverages | 1,90 | 0,5 L | Fresh and sparkling, always a good addition | b-water.png |
 | ![Cookies](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/f-cookies.png) | Cookies | Food | 2,25 | 350 g | Fruity jam in delicate biscuit | f-cookies.png |
+| ![Mortadella](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/f-mortadella.png) | Mortadella | Food | 2,65 | 100 g | Spicy and juicy, sausage with character | f-mortadella.png |
 | ![Olives](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/f-olives.png) | Olives | Food | 3,95 | 400 g | Olives with a lot of pulp and mild acidity | f-olives.png |
 | ![Parmesan](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/f-parmesan.png) | Parmesan | Food | 5,80 | 250 g | Fine grated cheese from the hills of Avalino | f-parmesan.png |
 | ![Passata di Pomodoro](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/f-passata-di-pomodoro.png) | Passata di Pomodoro | Food | 3,70 | 500 mL | Sun-ripened and full of flavor | f-passata-di-pomodoro.png |

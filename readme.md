@@ -2,6 +2,7 @@
 
 # Store logo
 
+![Logo](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/logo.png) 
 
 The images on this page may be used by you during the course "Django Gennaro Shop". They are for personal use only.
 

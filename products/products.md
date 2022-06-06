@@ -24,6 +24,8 @@ https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-gra
 | ![Kitchen Knife](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-kitchen-knife.png) | Kitchen Knife | Utensil | 19,95 | 1pc |An all-round tool that cuts everything | u-kitchen-knife.png |
 | ![Rolling Pin](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/u-rolling-pin.png) | Rolling Pin | Utensil | 10,00 | 1pc | The must-have for Italian cuisine | u-rolling-pin.png |
 
+## Legal
+
 The images on this page may be used by you during the course "Django Gennaro Shop". They are for personal use only.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.

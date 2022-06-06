@@ -1,8 +1,12 @@
 # Repository for the Django Gennaro Webshop course
 
-# Store logo
+## Store logo
 
-![Logo](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/logo.png) 
+![Logo](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/logo.png)
+
+Rightclick the image and save as gennaro/shop/static/shop/images/logo.png
+
+## Legal
 
 The images on this page may be used by you during the course "Django Gennaro Shop". They are for personal use only.
 

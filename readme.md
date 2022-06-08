@@ -6,6 +6,10 @@
 
 Rightclick the image and save in your django project folder gennaro/shop/static/shop/images/logo.png
 
+## .gitignore
+
+Download [.gitignore](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/.gitignore) to your gennaro project folder.
+
 ## Legal
 
 The images on this page may be used by you during the course "Django Gennaro Shop". They are for personal use only.

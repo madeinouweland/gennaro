@@ -4,7 +4,7 @@
 
 ![Logo](https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/logo.png)
 
-Rightclick the image and save as gennaro/shop/static/shop/images/logo.png
+Rightclick the image and save in your django project folder gennaro/shop/static/shop/images/logo.png
 
 ## Legal
 

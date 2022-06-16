@@ -1,7 +1,7 @@
 # Products
 
 ```
-https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-grappa.png
+https://raw.githubusercontent.com/madeinouweland/gennaroshop/main/products/b-water.png
 ```
 
 | | name | price | volume | description | image |

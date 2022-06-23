@@ -3,6 +3,7 @@
 - [Store logo](logo/)
 - [Product list 1](products/productlist1.md)
 - [Product list 2](products/productlist2.md)
+- [Product list 3](products/productlist3.md)
 
 ## Legal
 

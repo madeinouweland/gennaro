@@ -1,6 +1,4 @@
-# Creating a dynamic website with Django
-
-## Course repository
+## 'Creating a dynamic website with Django' Course repository
 
 - [Store logo](logo/)
 - [Product list 1](products/productlist1.md)

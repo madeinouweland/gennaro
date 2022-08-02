@@ -1,4 +1,4 @@
-# Repository for the course 'Creating a dynamic website with Django'
+# 'Creating a dynamic website with Django' course repository
 
 - [Store logo](logo/)
 - [Product list 1](products/productlist1.md)

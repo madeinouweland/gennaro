@@ -1,4 +1,4 @@
-# Repository for the Django Gennaro Webshop course
+# Repository for the course 'Creating a dynamic website with Django'
 
 - [Store logo](logo/)
 - [Product list 1](products/productlist1.md)

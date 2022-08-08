@@ -7,7 +7,7 @@
 
 ## Finished code
 
-If you are stuck or want to compare your code to my code, have a look in the 'finishedcode' folder.
+If you are stuck or want to compare your code to the finished product, have a look in the 'finishedcode' folder.
 
 ## Legal
 

@@ -7,7 +7,20 @@
 
 ### Finished code
 
-If you are stuck or want to compare your code to the finished product, have a look in the 'finished-code' folder.
+If you are stuck or want to compare your code to the finished product, have a look in the `finished-code` folder. If you checkout the code and want to run it, enter your database credentials in `settings.py`
+
+```
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': 5432,
+        'NAME': '',
+    }
+}
+```
 
 ## Legal
 

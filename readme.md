@@ -5,6 +5,10 @@
 - [Product list 2](products/productlist2.md)
 - [Product list 3](products/productlist3.md)
 
+## Finished code
+
+If you are stuck or want to compare your code to my code, have a look in the 'finishedcode' folder.
+
 ## Legal
 
 The images on this page may be used by you during the course "Django Gennaro Shop". They are for personal use only.

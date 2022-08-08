@@ -1,0 +1,31 @@
+{% extends "shop/master.html" %}
+{% block main %}
+{% load html_formatters %}
+<table>
+  {% for item in visitor.get_shopping_cart_items %}
+  <tr>
+    <td>{{ item.name }}</td>
+    <td>{{ item.quantity }}x</td>
+    <td>{{ item.price|currency_euro }}</td>
+  </tr>
+  {% endfor %}
+  <tr>
+    <td>Delivery costs</td>
+    <td></td>
+    <td>{{ visitor.get_delivery_details.city.delivery_costs|currency_euro }}</td>
+  </tr>
+  <tr>
+    <td><strong>Total</strong></td>
+    <td></td>
+    <td><strong>{{ total_costs|currency_euro }}</strong></td>
+  </tr>
+</table>
+<h2>Delivery address</h2>
+<p>{{ visitor.get_delivery_details.name }}</p>
+<p>{{ visitor.get_delivery_details.address }}, {{ visitor.get_delivery_details.city.name }}</p>
+<form method="post">
+  {% csrf_token %}
+  <button type="submit" name="previous">Previous</button>
+  <button type="submit" name="confirm">Confirm</button>
+</form>
+{% endblock %}

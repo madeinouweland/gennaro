@@ -1,0 +1,12 @@
+{% extends "shop/master.html" %}
+{% load html_formatters %}
+{% block main %}
+<img class="productdetailsimage" src="{% productimage image %}">
+<p>{{ description }}</p>
+<p>Volume: {{ volume }}</p>
+<p>{{ price|currency_euro }}</p>
+<form method="post">
+  {% csrf_token %}
+  <button type="submit">Add to cart</button>
+</form>
+{% endblock %}

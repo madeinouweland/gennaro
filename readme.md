@@ -5,9 +5,9 @@
 - [Product list 2](products/productlist2.md)
 - [Product list 3](products/productlist3.md)
 
-## Finished code
+### Finished code
 
-If you are stuck or want to compare your code to the finished product, have a look in the 'finishedcode' folder.
+If you are stuck or want to compare your code to the finished product, have a look in the 'finished-code' folder.
 
 ## Legal
 
